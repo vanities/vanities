@@ -7,4 +7,5 @@ Hi, I'm Adam. I like open source. I like crypto.
 
 ## Get in touch
 - Twitter: https://twitter.com/vanities
+- email: [mischke@protonmail.com](mailto:mischke@protonmail.com)
 - Personal site: https://catwebm.com
