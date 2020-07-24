@@ -18,6 +18,6 @@ Radical Transparency<br>
 🎛 [tmux](https://github.com/vanities/macbook-scripts/blob/master/dotfiles/.tmux.conf)
 
 ## Get in touch
-🐤 Twitter: https://twitter.com/vanities
-📧 Email: [mischke@protonmail.com](mailto:mischke@protonmail.com)
-🤠 Personal site: https://catwebm.com
+🐤 Twitter: https://twitter.com/vanities<br>
+📧 Email: [mischke@protonmail.com](mailto:mischke@protonmail.com)<br>
+🤠 Personal site: https://catwebm.com<br>
