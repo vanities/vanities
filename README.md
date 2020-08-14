@@ -1,15 +1,20 @@
 # vanities
 Hi, I'm Adam. I like open source. I like crypto.
 
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=vanities&show_icons=true&theme=dracula&hide_title=true' width=400 />
+
 ## About Me 
 🔭 I’m currently working on Bitchan, a web3 react app message board republic.<br>
-🌱 I’m currently learning javascript, typescript, solidity, and react/truffle.
+🌱 I’m currently learning javascript, typescript, solidity, and react/truffle.<br>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanities&layout=compact&theme=dracula" /><br>
 
 ## My Values
 A Positive Attitude<br>
 Eagerness to Learn<br>
 Teamwork<br>
 Radical Transparency<br>
+
 
 ## My dot configs
 🐚 [zsh](https://github.com/vanities/macbook-scripts/blob/master/dotfiles/.zshrc)<br>
