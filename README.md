@@ -9,13 +9,6 @@ Hi, I'm Adam. I like open source. I like crypto.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanities&layout=compact&theme=dracula" />
 
-## My Values
-A Positive Attitude<br>
-Eagerness to Learn<br>
-Teamwork<br>
-Radical Transparency<br>
-
-
 ## My dot configs
 🐚 [zsh](https://github.com/vanities/macbook-scripts/blob/master/dotfiles/.zshrc)<br>
 🧑🏻‍💻 [nvim](https://github.com/vanities/macbook-scripts/blob/master/dotfiles/.config/nvim/init.vim)<br>
