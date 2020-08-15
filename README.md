@@ -6,7 +6,7 @@ Hi, I'm Adam. I like open source. I like crypto.
 🔭 I’m currently working on Bitchan, a web3 react app message board republic.<br>
 🌱 I’m currently learning javascript, typescript, solidity, and react/truffle.<br>
 
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=vanities&show_icons=true&theme=dracula&hide_title=true' width=400 />
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=vanities&show_icons=true&theme=dracula&hide_title=true&count_private=true' width=400 />
 
 ## My dot configs
 🐚 [zsh](https://github.com/vanities/macbook-scripts/blob/master/dotfiles/.zshrc)<br>
