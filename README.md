@@ -1,5 +1,5 @@
 # vanities
-Hi, I'm Adam. I like open source. I like crypto.
+I like open source. I like crypto.
 
 
 ## About Me 
