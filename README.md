@@ -1,10 +1,9 @@
 # vanities
-I like open source. I like crypto.
+I like to prototype.
 
 
 ## About Me 
-🔭 I’m currently working on Bitchan, a web3 react app message board republic.<br>
-🌱 I’m currently learning javascript, typescript, solidity, and react/truffle.<br>
+🔭 I’m currently working on swiftchan, a swiftui 4chan browser for ios<br>
 
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=vanities&show_icons=true&theme=dracula&hide_title=true&count_private=true' width=400 />
 
