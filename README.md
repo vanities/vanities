@@ -1,5 +1,5 @@
 # vanities
-I like to prototype.
+A conscientious perceiver. I like to prototype.
 
 
 ## About Me 
@@ -19,3 +19,4 @@ I like to prototype.
 🐤 Twitter: https://twitter.com/vanities<br>
 📧 Email: [mischke@protonmail.com](mailto:mischke@protonmail.com)<br>
 🤠 Personal site: https://catwebm.com<br>
+📝 Resume: [here](https://catwebm.com/assets/docs/resume.pdf)<br>
