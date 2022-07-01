@@ -18,4 +18,3 @@ A conscientious perceiver. I like to prototype.
 ## Get in touch
 📧 Email: [mischke@protonmail.com](mailto:mischke@protonmail.com)<br>
 🤠 Personal site: https://catwebm.com<br>
-📝 Resume: [here](https://catwebm.com/assets/docs/resume.pdf)<br>
