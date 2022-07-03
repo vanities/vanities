@@ -1,11 +1,10 @@
 # vanities
 A conscientious perceiver. I like to prototype.
 
-
 ## About Me 
-🔭 I’m currently working on swiftchan, a swiftui 4chan browser for ios<br>
+🔭 I’m currently <a href="https://github.com/vanities/speedrun-ethereum">speedrunning ethereum</a>, using scaffold-eth's repos do quickly test and deploy ethereum full-stack apps.<br>
 
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=vanities&show_icons=true&theme=dracula&hide_title=true&count_private=true' width=400 />
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=vanities&show_icons=true&theme=dracula&hide_title=true&count_private=true' width=400/>
 
 ## My dot configs
 🐚 [zsh](https://github.com/vanities/macbook-scripts/blob/master/dotfiles/.zshrc)<br>
