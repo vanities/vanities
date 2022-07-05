@@ -2,7 +2,7 @@
 A conscientious perceiver. I like to prototype.
 
 ## About Me 
-🔭 I’m currently <a href="https://github.com/vanities/speedrun-ethereum">speedrunning ethereum</a>, using scaffold-eth's repos do quickly test and deploy ethereum full-stack apps.<br>
+🔭 I’m currently <a href="https://github.com/vanities/speedrun-ethereum">speedrunning ethereum</a>, using scaffold-eth's repos to quickly test and deploy ethereum full-stack apps.<br>
 
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=vanities&show_icons=true&theme=dracula&hide_title=true&count_private=true' width=400/>
 
