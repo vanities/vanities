@@ -8,6 +8,6 @@ A collective conscientious perceiver. I like to prototype.
 📧 Email: [mischke@protonmail.com](mailto:mischke@protonmail.com)<br>
 🤠 Personal site: https://catwebm.com
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanities&layout=compact&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanities&layout=compact&theme=dracula&hide=CSS,Jupyter%20Notebook"/>
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=vanities&show_icons=true&theme=dracula&hide_title=true&count_private=true' width=400/>
 
