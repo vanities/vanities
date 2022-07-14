@@ -1,5 +1,5 @@
 # vanities
-A conscientious perceiver. I like to prototype.
+A collective conscientious perceiver. I like to prototype.
 
 ## About Me 
 🔭 I’m currently <a href="https://github.com/vanities/speedrun-ethereum">speedrunning ethereum</a>, using scaffold-eth's repos to quickly test and deploy ethereum full-stack apps and deploy them to testnets.<br>
