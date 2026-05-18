@@ -29,7 +29,7 @@ with two boys, a wife, and too many half-finished projects.
 - 🤖 ai agents & meeting intelligence — solutions fabric @ [teraflop](https://github.com/Teraflop-Inc)
 - 📱 short-form video — [pulsereels](https://apps.apple.com/app/id6754395633) ios + [pulsereels.app](https://pulsereels.app) web @ [science](https://pulsestudios.ai/)
 - 📄 self-hosted finance / tax / portfolio / health — [docvault](https://github.com/vanities/docvault) (⭐10)
-- 📿 on-device-ai bible app with curated devotionals — [swiftbible](https://apps.apple.com/us/app/bible-kjv-swiftbible/id6670373108) (⭐10)
+- 📿 on-device-ai bible app with curated devotionals — [swiftbible](https://github.com/vanities/swiftbible) (⭐10)
 
 ## 🕰️ previously
 
