@@ -3,10 +3,10 @@
 > i can build anything with my shapes.
 
 ```
-    ___          /\         \ | /        .---.          *
-   /   \        /  \         \|/        /     \       *****
-  |     |       \  /         /|\        \     /        ***
-   \___/         \/         / | \        '---'        *   *
+   .---.         /\         \ | /        .---.          *
+  (     )       /  \         \|/        /     \       *****
+  (     )       \  /         /|\        \     /        ***
+   `---`         \/         / | \        '---'        *   *
 ```
 
 <sub>art made with [hermes-agent / skills / creative / ascii-art](https://github.com/NousResearch/hermes-agent/blob/main/skills/creative/ascii-art/SKILL.md)</sub>
