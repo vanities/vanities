@@ -23,7 +23,7 @@ with two boys, a wife, and too many half-finished projects.
 ## 🕰️ previously
 
 - 🚗 [ford — bluecruise audio tour + apple vision pro](https://am2.biz/creations/ford-bluecruise) — senior creative technologist (2023–2024)
-- 🎨 [open3 — qualified digital art platform](https://am2.biz/creations/open3-blockchain) — senior full-stack, 33+ smart contracts, 100k+ pieces sold (2022)
+- 🎨 [open3 — qualified digital art platform](https://am2.biz/creations/open3-blockchain) — senior full-stack for [matty mo](https://www.instagram.com/themostfamousartist/), 33+ smart contracts, 100k+ pieces sold (2022)
 - 💕 [funfunfun — gen z video dating](https://am2.biz/creations/fun-dating-app) — first engineering hire, django + graphql + swiftui (2020–2022)
 - ⛏️ [coinmine — plug-and-play crypto miner](https://am2.biz/creations/coinmine-mineos) — first engineering hire, mineos arch-linux distro for 5k+ devices (2018–current, part-time)
 - ⚓ united states navy — fire controlman (FC2), secret clearance, ship's self-defense systems (2008–2014)
