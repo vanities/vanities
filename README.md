@@ -17,7 +17,7 @@ with two boys, a wife, and too many half-finished projects.
 
 - 🤖 ai agents & meeting intelligence — solutions fabric @ [teraflop](https://github.com/Teraflop-Inc)
 - 📱 short-form video — [pulsereels](https://apps.apple.com/app/id6754395633) ios + [pulsereels.app](https://pulsereels.app) web @ [science](https://pulsestudios.ai/)
-- 📄 self-hosted finance / tax / portfolio — [docvault](https://github.com/vanities/docvault) (⭐10)
+- 📄 self-hosted finance / tax / portfolio / health — [docvault](https://github.com/vanities/docvault) (⭐10)
 - 📿 on-device-ai bible app with curated devotionals — [swiftbible](https://apps.apple.com/us/app/swiftbible/id6469895532) (⭐10)
 
 ## 🕰️ previously
@@ -37,7 +37,7 @@ with two boys, a wife, and too many half-finished projects.
 
 ## 🤖 ai / agents
 
-- [docvault](https://github.com/vanities/docvault) — claude vision parsing + claude code strategy skill, self-hosted (⭐10)
+- [docvault](https://github.com/vanities/docvault) — claude vision parsing + apple health ingest + claude code strategy skill, self-hosted (⭐10)
 - [social-skills](https://github.com/vanities/social-skills) — skill-driven social automation across IG/LinkedIn/X/Pinterest/TikTok via claude code + agent-browser
 - [techslop](https://github.com/vanities/techslop) — automated tech-news youtube-shorts pipeline
 - [llm](https://github.com/vanities/llm) — llm experiments
