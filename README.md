@@ -16,9 +16,9 @@ with two boys, a wife, and too many half-finished projects.
 ## 🔨 currently shaping
 
 - 🤖 ai agents & meeting intelligence — [solutions fabric](https://teraflop.io) @ teraflop
-- 📱 short-form video on ios — [pulsereels](https://apps.apple.com/app/id6754395633) @ science
+- 📱 short-form video — [pulsereels](https://apps.apple.com/app/id6754395633) ios + [pulsereels.app](https://pulsereels.app) web @ science
 - 📄 self-hosted finance / tax / portfolio — [docvault](https://github.com/vanities/docvault) (⭐10)
-- 📿 ios bible reader — [swiftbible](https://apps.apple.com/us/app/swiftbible/id6469895532) (⭐10)
+- 📿 on-device-ai bible app with curated devotionals — [swiftbible](https://apps.apple.com/us/app/swiftbible/id6469895532) (⭐10)
 
 ## 🕰️ previously
 
@@ -31,7 +31,6 @@ with two boys, a wife, and too many half-finished projects.
 ## 📱 ios / swift
 
 - [swiftchan](https://github.com/vanities/swiftchan) — fast imageboard viewer in swiftui (⭐25)
-- [swiftbible](https://github.com/vanities/swiftbible) — bible reader for ios + android
 - [FourChanAPI](https://github.com/vanities/FourChanAPI) — swift combine adapter for 4chan's public api
 - [carplay-swiftui](https://github.com/vanities/carplay-swiftui) — swiftui + carplay app template
 - [swiftui-testing](https://github.com/vanities/swiftui-testing) — swiftui playground
