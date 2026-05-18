@@ -1,11 +1,4 @@
-```
-██╗   ██╗ █████╗ ███╗   ██╗██╗████████╗██╗███████╗███████╗
-██║   ██║██╔══██╗████╗  ██║██║╚══██╔══╝██║██╔════╝██╔════╝
-██║   ██║███████║██╔██╗ ██║██║   ██║   ██║█████╗  ███████╗
-╚██╗ ██╔╝██╔══██║██║╚██╗██║██║   ██║   ██║██╔══╝  ╚════██║
- ╚████╔╝ ██║  ██║██║ ╚████║██║   ██║   ██║███████╗███████║
-  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚══════╝╚══════╝
-```
+# vanities
 
 > i can build anything with my shapes.
 
@@ -21,7 +14,7 @@
 —
 
 navy taught me to ssh into ships. now i build from the farm,
-with two boys, a wife, and too many half-finished projects.
+with two boys, a wife, and a lot of ideas.
 
 ## 🔨 currently shaping
 
@@ -43,23 +36,18 @@ with two boys, a wife, and too many half-finished projects.
 - [swiftchan](https://github.com/vanities/swiftchan) — fast imageboard viewer in swiftui (⭐25)
 - [FourChanAPI](https://github.com/vanities/FourChanAPI) — swift combine adapter for 4chan's public api
 - [carplay-swiftui](https://github.com/vanities/carplay-swiftui) — swiftui + carplay app template
-- [swiftui-testing](https://github.com/vanities/swiftui-testing) — swiftui playground
 
 ## 🤖 ai / agents
 
 - [docvault](https://github.com/vanities/docvault) — claude vision parsing + apple health ingest + claude code strategy skill, self-hosted (⭐10)
 - [social-skills](https://github.com/vanities/social-skills) — skill-driven social automation across IG/LinkedIn/X/Pinterest/TikTok via claude code + agent-browser
 - [techslop](https://github.com/vanities/techslop) — automated tech-news youtube-shorts pipeline
-- [llm](https://github.com/vanities/llm) — llm experiments
 
 ## ⛓️ ethereum / crypto
 
 - [bitchan](https://github.com/vanities/bitchan) — a message board on ethereum (⭐5)
 - [speedrun-ethereum](https://github.com/vanities/speedrun-ethereum) — nfts, staking, token vendor, dex, multisig (⭐7)
-- [contract-deployer](https://github.com/vanities/contract-deployer) — hardhat deployer tooling
-- [foundry-starter-kit](https://github.com/vanities/foundry-starter-kit) — foundry solidity scaffolding
 - [post-memes](https://github.com/vanities/post-memes) — frontend for an ethereum mint page
-- [nextjs-wallet](https://github.com/vanities/nextjs-wallet) — nextjs react wallet template
 - 🥾 rocketpool ethereum validator — running my own node since the merge
 
 ## 🏠 homelab / linux / hardware
@@ -70,6 +58,7 @@ with two boys, a wife, and too many half-finished projects.
 - [pi](https://github.com/vanities/pi) — dockerized pi apps: wireguard, unbound, pihole, and more
 - [coindock](https://github.com/vanities/coindock) — dockerized coin nodes
 - [grin-node-and-miner](https://github.com/vanities/grin-node-and-miner) — host + mine grin via compose
+- 🖼️ `randombg` *(private)* — random wallpaper fetcher from /wg/
 - 🖥️ unraid cluster — plex, nextcloud, openwebui, ~30 containers
 - 🔒 opnsense + wireguard — self-managed network edge
 
@@ -81,8 +70,6 @@ with two boys, a wife, and too many half-finished projects.
 ## 📰 the rest
 
 - [am2.biz](https://am2.biz) — consultancy site + business infra, all self-hosted
-- [ethosmineralert](https://github.com/vanities/ethosmineralert) — alerts + daily stats for a miner
-- [macbookpro_touchbar](https://github.com/vanities/macbookpro_touchbar) — bettertouchtool config
 - [mining-presentation](https://github.com/vanities/mining-presentation) — intro slides for would-be miners
 - 🛠️ several private repos for client work, automation, and personal experiments
 
