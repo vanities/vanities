@@ -9,6 +9,7 @@ with two boys, a wife, and a lot of ideas.
 - 📱 short-form video - [pulsereels](https://apps.apple.com/app/id6754395633) ios + [pulsereels.app](https://pulsereels.app) web @ [science](https://pulsestudios.ai/)
 - 📄 self-hosted finance / tax / portfolio / health - [docvault](https://github.com/vanities/docvault) (⭐10)
 - 📿 on-device-ai bible app with curated devotionals - [swiftbible](https://github.com/vanities/swiftbible) (⭐10)
+- 🎵 [toaster-strudel](https://github.com/vanities/toaster-strudel) - live-coding music workspace driven by claude code agents (strudel + artist-style skills + browser player)
 
 ## 🕰️ previously
 
@@ -29,6 +30,7 @@ with two boys, a wife, and a lot of ideas.
 - [docvault](https://github.com/vanities/docvault) - claude vision parsing + apple health ingest + claude code strategy skill, self-hosted (⭐10)
 - [social-skills](https://github.com/vanities/social-skills) - skill-driven social automation across IG/LinkedIn/X/Pinterest/TikTok via claude code + agent-browser
 - [techslop](https://github.com/vanities/techslop) - automated tech-news youtube-shorts pipeline
+- [toaster-strudel](https://github.com/vanities/toaster-strudel) - live-coding music workspace, claude code skills as the composition agent + librosa-derived artist-style skills + browser player
 
 ## ⛓️ ethereum / crypto
 
