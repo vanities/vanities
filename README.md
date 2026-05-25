@@ -10,6 +10,7 @@ with two boys, a wife, and a lot of ideas.
 - 📄 self-hosted finance / tax / portfolio / health - [docvault](https://github.com/vanities/docvault) (⭐10)
 - 📿 on-device-ai bible app with curated devotionals - [swiftbible](https://github.com/vanities/swiftbible) (⭐10)
 - 🎵 [toaster-strudel](https://github.com/vanities/toaster-strudel) - live-coding music workspace driven by claude code agents (strudel + artist-style skills + browser player)
+- 🏛️ on-chain social *republic* - [bitchan](https://github.com/vanities/bitchan) - reviving it as an x-style timeline on ethereum where citizens *elect (and recall) their own moderators*; solidity + foundry
 
 ## 🕰️ previously
 
@@ -34,7 +35,7 @@ with two boys, a wife, and a lot of ideas.
 
 ## ⛓️ ethereum / crypto
 
-- [bitchan](https://github.com/vanities/bitchan) - a message board on ethereum (⭐5)
+- [bitchan](https://github.com/vanities/bitchan) - on-chain social *republic*: x-style timeline, per-citizen *elected* moderation, solidity + foundry (⭐5)
 - [speedrun-ethereum](https://github.com/vanities/speedrun-ethereum) - nfts, staking, token vendor, dex, multisig (⭐7)
 - [post-memes](https://github.com/vanities/post-memes) - frontend for an ethereum mint page
 - 🥾 rocketpool ethereum validator - running my own node since the merge
