@@ -11,6 +11,7 @@ with two boys, a wife, and a lot of ideas.
 - 📿 on-device-ai bible app with curated devotionals - [swiftbible](https://github.com/vanities/swiftbible) (⭐10)
 - 🎵 [toaster-strudel](https://github.com/vanities/toaster-strudel) - live-coding music workspace driven by claude code agents (strudel + artist-style skills + browser player)
 - 🏛️ on-chain social *republic* - [bitchan](https://github.com/vanities/bitchan) - reviving it as an x-style timeline on ethereum where citizens *elect (and recall) their own moderators*; solidity + foundry
+- ⛏️ [matador-miner](https://github.com/vanities/matador-miner) - fearless gpu miner for BTX MatMul proof-of-work: one static binary (cuda / metal / rocm), solo or pool, self-updating + fleet-ready (⭐10)
 
 ## 🕰️ previously
 
@@ -33,8 +34,12 @@ with two boys, a wife, and a lot of ideas.
 - [techslop](https://github.com/vanities/techslop) - automated tech-news youtube-shorts pipeline
 - [toaster-strudel](https://github.com/vanities/toaster-strudel) - live-coding music workspace, claude code skills as the composition agent + librosa-derived artist-style skills + browser player
 
-## ⛓️ ethereum / crypto
+## ⛓️ crypto / ethereum
 
+- [matador-miner](https://github.com/vanities/matador-miner) - headless gpu miner for [btxchain/btx](https://github.com/btxchain/btx) MatMul PoW - nvidia + apple silicon + amd from one static binary, solo or pool, sha256-verified self-updates, fleet coordinator + telemetry (⭐10)
+- [btxlinks](https://github.com/vanities/btxlinks) - [btxlinks.com](https://btxlinks.com) - community link directory for BTX, the post-quantum bitcoin fork: pools, miners, wallets
+- 🔍 `btx-explorer` *(private)* - block + mempool explorer over an archival btxd node: tanstack start + hono + drizzle, ZMQ indexer
+- 🚰 `btx-faucet` *(private)* - browser-mining faucet spike: visitors mine in-tab via WASM, payouts proportional to work (sybil-resistant by construction)
 - [bitchan](https://github.com/vanities/bitchan) - on-chain social *republic*: x-style timeline, per-citizen *elected* moderation, solidity + foundry (⭐5)
 - [speedrun-ethereum](https://github.com/vanities/speedrun-ethereum) - nfts, staking, token vendor, dex, multisig (⭐7)
 - [post-memes](https://github.com/vanities/post-memes) - frontend for an ethereum mint page
