@@ -9,6 +9,7 @@ with two boys, a wife, and a lot of ideas.
 - 📱 short-form video - [pulsereels](https://apps.apple.com/app/id6754395633) ios + [pulsereels.app](https://pulsereels.app) web @ [science](https://pulsestudios.ai/)
 - 📄 self-hosted finance / tax / portfolio / health - [docvault](https://github.com/vanities/docvault) (⭐10)
 - 📿 on-device-ai bible app with curated devotionals - [swiftbible](https://github.com/vanities/swiftbible) (⭐10)
+- 🎧 audiobook player - [earmark](https://apps.apple.com/us/app/earmark-audiobooks/id6808821106) ios, free on the app store: plays the files you already have where they are (folders, icloud drive, a nas over smb), carplay, no tip jar
 - 🎵 [toaster-strudel](https://github.com/vanities/toaster-strudel) - live-coding music workspace driven by claude code agents (strudel + artist-style skills + browser player)
 - 🏛️ on-chain social *republic* - [bitchan](https://github.com/vanities/bitchan) - reviving it as an x-style timeline on ethereum where citizens *elect (and recall) their own moderators*; solidity + foundry
 - ⛏️ [matador-miner](https://github.com/vanities/matador-miner) - fearless gpu miner for BTX MatMul proof-of-work: one static binary (cuda / metal / rocm), solo or pool, self-updating + fleet-ready (⭐10)
@@ -23,6 +24,7 @@ with two boys, a wife, and a lot of ideas.
 
 ## 📱 ios / swift
 
+- [earmark](https://apps.apple.com/us/app/earmark-audiobooks/id6808821106) - audiobook player that plays your own files in place, streams from a nas over smb, carplay, no tip jar ([am2.biz/earmark](https://am2.biz/earmark))
 - [swiftchan](https://github.com/vanities/swiftchan) - fast imageboard viewer in swiftui (⭐25)
 - [FourChanAPI](https://github.com/vanities/FourChanAPI) - swift combine adapter for 4chan's public api
 - [carplay-swiftui](https://github.com/vanities/carplay-swiftui) - swiftui + carplay app template
